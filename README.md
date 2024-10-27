@@ -1,5 +1,9 @@
 # Infusing your .NET Apps with AI: Practical Tools and Techniques
 
+For more information see this Youtube video: 
+
+https://www.youtube.com/watch?v=VAP2ARHkbe4&list=PLdo4fOcmZ0oX7Yg1cixIj6hXjz9C5MHJR&index=2
+
 Learn how to use the Semantic Kernel library in your .NET Applications.
 
 ## Prerequisites
