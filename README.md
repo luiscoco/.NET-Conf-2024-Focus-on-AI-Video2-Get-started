@@ -4,7 +4,7 @@ For more information about this sample see this Youtube video:
 
 https://www.youtube.com/watch?v=VAP2ARHkbe4&list=PLdo4fOcmZ0oX7Yg1cixIj6hXjz9C5MHJR&index=2
 
-See also .NET Conf 2024 playlist: 
+See also **.NET Conf 2024** playlist: 
 
 https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7Yg1cixIj6hXjz9C5MHJR
 
